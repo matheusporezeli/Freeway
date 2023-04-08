@@ -1,17 +1,16 @@
-# Nome do meu projeto
+# Freeway
 
-Rápida descrição do objetivo de fazer esse projeto
+Recriação do clássico jogo Freeway de 1981
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Freeway**
+| :label: Tecnologias | javascript
+| :rocket: URL         | https://matheusporezeli.github.io/Freeway/
+| :fire: Desafio     | https://cursos.alura.com.br/course/javascript-listas-lacos
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![freeway](https://user-images.githubusercontent.com/112051389/230723377-1ba75630-0abc-4e9f-be1f-f8dc42a96d4b.gif#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto para praticar Javascript e lógica de programação recriando o jogo freeway e aprendendo sobre listas e laços.
